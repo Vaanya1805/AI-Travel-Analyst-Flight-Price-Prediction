@@ -20,7 +20,7 @@ I worked with flight data and used Python, data analysis, visualization, and a R
 
 - Original rows: 100,000
 - Cleaned rows: 64,071
-- Target variable: `Price`
+- Target variable: Price
 
 The dataset contains information such as airline, source, destination, travel class, flight distance, stops, passengers, and duration.
 
